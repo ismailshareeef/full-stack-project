@@ -1,2 +1,2 @@
 # full-stack-project
-My first full-stack project.
+my first full-stack project.
